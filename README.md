@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AncyJohn,an aspiring data scientist. 
+- 👀 I’m so passionate about Information Technology and its power to bring changes in life.
+- 🌱 I have completed Post Graduate Diploma in Applied Data Science from University of Canterbury, New Zealand. My goal is to build up a successful career in data science. I have experience in banking, stock market, retail business and IT sector. Currently, I am working in the hospitality sector.
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 Reach me: ancy.14@gmail.com
